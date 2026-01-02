@@ -1,5 +1,5 @@
 # Classification_Time_Payments
-Demonstration of classification machine learning models
+This notebook uses classification models such as K-Nearest Neighbot, Decision Trees, Logistics Regression, Support Vector Machine, and Random Forest Classifier to predict late payments and introduce initiatives to ensure that payments are made on time.
 
 # <font face = 'Palatino Linotype' color = '#5885AF'> Business Understanding:<font/>
 
