@@ -1,7 +1,7 @@
-# Classification_Time_Payments
+# ⏲️  Classification_Time_Payments
 This notebook uses classification models such as K-Nearest Neighbot, Decision Trees, Logistics Regression, Support Vector Machine, and Random Forest Classifier to predict late payments and introduce initiatives to ensure that payments are made on time.
 
-# <font face = 'Palatino Linotype' color = '#5885AF'> Business Understanding:<font/>
+## <font face = 'Palatino Linotype' color = '#5885AF'> Business Understanding:<font/>
 
 Every business that invoices customers faces one common challenge:
 - ✅ Ensuring invoices are paid on time.
@@ -10,7 +10,7 @@ Every business that invoices customers faces one common challenge:
 "We Provide All", a mid-sized B2B service provider, issues hundreds of invoices monthly to clients across various industries. Some clients pay promptly, while others consistently delay payments. The Operations Department want to anticipate payment delays so they can take preventive action such as early reminders, offering discounts, or adjusting payment terms.
 
 The QUESTION relevant to the business problem is simple but impactful:
-## “Can we predict whether a customer will pay their next invoice on time?”
+### “Can we predict whether a customer will pay their next invoice on time?”
 
 By identifying invoices at risk of late payment, the company can:
 - 🎯Improve cash flow forecasting
