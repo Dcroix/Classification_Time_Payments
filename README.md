@@ -26,4 +26,5 @@ This project is a machine learning pipeline for predicting timely payments (arre
 - Python 3.12
 - scikit-learn, numpy, pandas, matplotlib, seaborn
 
-Check this out by clicking this [link](https://github.com/Dcroix/Classification_Time_Payments/blob/main/Predicting%20Timely%20Payments%20Quick%20App%20Deploy%20Version.ipynb).
+Check out Machine Learning on  [link](https://github.com/Dcroix/Classification_Time_Payments/blob/main/Predicting%20Timely%20Payments%20Quick%20App%20Deploy%20Version.ipynb).
+Check out the Machine Learning Application on [link](https://huggingface.co/spaces/Dcroix/CreditML).
