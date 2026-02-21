@@ -6,7 +6,7 @@ Every business that invoices customers faces one common challenge:
 - Late payments can disrupt cash flow, increase administrative costs, and affect the company’s ability to operate efficiently.
 "We Provide All", a mid-sized B2B service provider, issues hundreds of invoices monthly to clients across various industries. Some clients pay promptly, while others consistently delay payments. The Operations Department want to anticipate payment delays so they can take preventive action such as early reminders, offering discounts, or adjusting payment terms.
 
-This project is a machine learning pipeline for predicting timely payments (arrears vs. on-time) using financial and behavioral indicators. It is aimed at improving the performance of "We Provide All" in terms improving ontime payments. of  The notebook demonstrates a complete end-to-end workflow including data preprocessing, model training, hyperparameter tuning, and evaluation.
+This project is a machine learning pipeline for predicting timely payments (arrears vs. on-time) using financial and behavioral indicators. It is aimed at improving the performance of "We Provide All" in terms improving ontime payments. The notebook demonstrates a complete end-to-end workflow including data preprocessing, model training, hyperparameter tuning, and evaluation.
 
 ## Key Features
 
